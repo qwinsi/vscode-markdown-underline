@@ -2,6 +2,7 @@
   "name": "markdown-underline",
   "version": "0.0.4",
   "displayName": "Markdown Underline",
+  "publisher": "qwinsi",
   "repository": "https://github.com/qwinsi/vscode-markdown-underline",
   "engines": {
     "vscode": "^1.59.0"
