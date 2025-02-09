@@ -1,0 +1,19 @@
+{
+  "name": "markdown-underline",
+  "version": "0.0.4",
+  "displayName": "Markdown Underline",
+  "repository": "https://github.com/qwinsi/vscode-markdown-underline",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [ "Programming Languages" ],
+  "activationEvents": [
+    "onLanguage:markdown"
+  ],
+  "contributes": {
+  },
+  "main": "./main.js",
+  "scripts": {
+    "build": "npx vsce package"
+  }
+}
